@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srinjay Saha!
-- 👀 I’m interested in Web Development and Java development!
+- 👀 I’m interested in Web Development and Java development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on projects based on Web Development
 - 📫 How to reach me ..You can checkout me @Linkedin-Srinjay saha
